@@ -9,6 +9,8 @@ public class main {
 		System.out.println("Hello world 2");
 		System.out.println("Version 3");		
 		System.out.println("Hello world 3");
+		System.out.println("Versi 4");
+		System.out.println("Hello world 4");
 		
 	}
 
